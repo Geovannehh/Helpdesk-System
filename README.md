@@ -1,4 +1,4 @@
-# HelpDesk+ — Sistema de Chamados
+# HelpDesk Sistema de Chamados
 
 Sistema full-stack responsivo para gestão de suporte técnico, com três personas: **Admin, Técnico e Cliente**.
 
